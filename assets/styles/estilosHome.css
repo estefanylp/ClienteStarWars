@@ -1,0 +1,96 @@
+.banner {
+    background-image: url("../img/banner.jpg");
+    background-position: top center;
+    background-size: cover;
+    background-attachment: fixed;
+    padding: 19.6%;
+}
+
+.menu {
+    background-color: black;
+}
+
+
+
+
+
+h1 {
+    text-align: center;
+}
+
+#title {
+    background-color: crimson;
+    color: white;
+}
+
+.navbar-brand {
+    color: crimson;
+    font-size: xx-large;
+    font-weight: 600;
+
+}
+
+* {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+
+}
+
+#text2 {
+    margin-top: 50px;
+    color: white;
+    border: 2px;
+    border-width: 5px;
+
+}
+
+#text1 {
+    margin-top: 50px;
+    color: white;
+
+}
+
+.my-5 {
+    background-color: black;
+}
+
+.personajes {
+    margin-bottom: 60px;
+
+}
+
+.planetas {
+    margin-bottom: 40px;
+
+}
+
+.persona {
+
+    background-color: crimson;
+    color: white
+}
+
+.planeta {
+
+    background-color: crimson;
+    color: white
+}
+
+.card {
+    background-color: black;
+    color: white;
+    border-color: crimson;
+    border-width: 5px;
+}
+
+.p {
+    color: white;
+    text-decoration-color: bisque;
+}
+
+.footer {
+    margin-top: 40px;
+    width: 100%;
+    background-color: crimson;
+    color: white;
+    text-align: center;
+}
